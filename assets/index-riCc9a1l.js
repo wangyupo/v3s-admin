@@ -1,0 +1,1 @@
+import{u as n,b as s,o as c,c as r,h as e,e as l,f as u}from"./index-33jOakuY.js";const m={__name:"index",setup(p){const t=n(),o=()=>{t.push({path:"/example/page/child",query:{id:"1",type:"2"}})};return(_,d)=>{const a=s("el-button");return c(),r("div",null,[e(" 主页面 "),l(a,{onClick:o},{default:u(()=>[e("点我跳转子页面")]),_:1})])}}};export{m as default};
