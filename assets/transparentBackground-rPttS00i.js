@@ -1,1 +1,0 @@
-import{_ as r,o as e,c as t}from"./index-33jOakuY.js";const n={};function a(c,o){return e(),t("div",null," 这个业务区域的背景和底色相同，这在业务开发中很常见，想要做到这一点，只需要在配置 router 的时候，将 meta 中的 transparentBackground 设为 true 即可。 ")}const _=r(n,[["render",a]]);export{_ as default};
