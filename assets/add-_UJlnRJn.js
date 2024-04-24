@@ -1,0 +1,1 @@
+import{_ as t,o,d as s,e,k as c}from"./index-GMG092dj.js";const a={},n=e("p",null,[c(" 添加页面 "),e("span",{class:"italic font-bold"},"（注意看面包屑导航名称的变化）")],-1),r=[n];function _(d,l){return o(),s("div",null,r)}const f=t(a,[["render",_]]);export{f as default};
