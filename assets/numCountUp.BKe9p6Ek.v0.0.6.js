@@ -1,0 +1,1 @@
+import{_ as n,c as o,o as c,d as t,f as a}from"./index.Dnaxa93p.v0.0.6.js";const s={};function r(_,l){const e=o("RhCountUp");return c(),t("div",null,[a(e,{endVal:1e3,decimalPlaces:2})])}const d=n(s,[["render",r]]);export{d as default};
