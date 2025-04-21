@@ -1,0 +1,1 @@
+import{_ as c,d as n,o,e as t}from"./index.fOxQ5XH8.v0.0.13.js";const r={};function s(a,e){return o(),n("div",null,e[0]||(e[0]=[t("p",null,"这是首页，请尝试使用 Ctrl + Space（空格键） 唤醒菜单搜索，搜索并进入你想要的页面🧐。",-1),t("p",{class:"flex items-center"},"（注意：如果你的电脑是 mac/mbp，请使用 command + k 来唤醒菜单搜索。）",-1)]))}const m=c(r,[["render",s]]);export{m as default};
