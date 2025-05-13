@@ -1,0 +1,1 @@
+import{_ as n,c as o,d as c,o as t,f as a}from"./index.D5ehgF_c.v0.0.14.js";const s={};function r(_,l){const e=o("RhCountUp");return t(),c("div",null,[a(e,{endVal:1e3,decimalPlaces:2})])}const d=n(s,[["render",r]]);export{d as default};
