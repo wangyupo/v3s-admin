@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./index.7yExDH_y.v0.0.14.js";import"./echarts.D6AolVnC.v0.0.14.js";const o={},r={class:"text-[14px] text-gray-600"};function s(n,_){return t(),c("div",r," 嵌套菜单示例页面 2 ")}const x=e(o,[["render",s]]);export{x as default};

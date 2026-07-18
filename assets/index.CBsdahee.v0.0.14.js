@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as c,c as t,d as r}from"./index.7yExDH_y.v0.0.14.js";import"./echarts.D6AolVnC.v0.0.14.js";const a={};function s(_,l){const e=n("RhCountUp");return c(),t("div",null,[r(e,{endVal:1e3,decimalPlaces:2})])}const m=o(a,[["render",s]]);export{m as default};
